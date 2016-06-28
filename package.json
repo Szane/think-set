@@ -1,0 +1,14 @@
+{
+  "name": "think-set",
+  "version": "0.0.1",
+  "description": "a set of arithmetic practices",
+  "main": "main.js",
+  "dependencies": {
+    "log4js": "*"
+  },
+
+  "scripts": {
+    "start": "node main.js"
+  },
+  "author": "Joey Zhang"
+}
