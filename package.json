@@ -4,9 +4,10 @@
   "description": "a set of arithmetic practices",
   "main": "main.js",
   "dependencies": {
+    "mongodb": "2.1.7",
+    "mongoose": "4.4.17",
     "log4js": "*"
   },
-
   "scripts": {
     "start": "node main.js"
   },
