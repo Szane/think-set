@@ -6,6 +6,8 @@
   "dependencies": {
     "mongodb": "2.1.7",
     "mongoose": "4.4.17",
+    "restify": "4.0.4",
+    "restify-errors": "4.2.0",
     "log4js": "*"
   },
   "scripts": {
